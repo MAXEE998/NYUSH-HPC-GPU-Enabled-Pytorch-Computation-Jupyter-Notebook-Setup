@@ -4,7 +4,7 @@
 
 
 ---
-## Part One: Intsallation
+## Part One: Installation
 
 ***Caveat: Before installation, make sure that you have at least 7 GB of disk quote in your home directory.***
 
