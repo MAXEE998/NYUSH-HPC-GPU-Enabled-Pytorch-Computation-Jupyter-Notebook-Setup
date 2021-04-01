@@ -6,7 +6,7 @@
 ---
 ## Part One: Installation
 
-***Caveat: Before installation, make sure that you have at least 7 GB of disk quote in your home directory.***
+***Caveat: Before installation, make sure that you have at least 7 GB of disk quota in your home directory.***
 
 1. connect to the server via ssh
 
