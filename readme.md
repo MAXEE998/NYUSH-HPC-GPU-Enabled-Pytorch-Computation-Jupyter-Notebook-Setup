@@ -66,7 +66,7 @@
 3. Keep running the following command:
    
     ```bash
-    $ cat output.txt
+    $ cat output-*.txt
     ```
 
     Until you see something like this:
@@ -131,7 +131,7 @@
     $ source activate ./torch_env
     ```
 
-3. Now you may use pip/conda to install packages to your enviroment. **Note that the changes you make to the environment is permanent**.
+3. Now you may use pip/conda to install packages to your environment. **Note that the changes you make to the environment are permanent**.
 
 ---
 ## Part Four: If Your Notebook Require Network Request
