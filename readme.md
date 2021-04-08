@@ -26,9 +26,10 @@
     $ cp ~/../hl2752/hongyi/install_env.sh ~/jupyter/
     ```
 
-4. run the installation script using this command:
+4. run the installation script using the commands:
 
     ```bash
+    $ cd ~/jupyter
     $ ~/jupyter/install_env.sh
     ```
 
